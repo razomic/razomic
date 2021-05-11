@@ -1,0 +1,3 @@
+## Razomic
+### Repository of personal projects and coding exercises
+Under Construction...
